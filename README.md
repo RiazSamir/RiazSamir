@@ -8,6 +8,22 @@ I am an asiring Cyber Security Analyst passionate about deffending systems, anal
 ## Objectives
 I work as a Service Desk Analyst wanting to transitioninto cybersecurity, leveraging hands-on technical support experience, security certifications, and practical SOC lab work. Seeking a Security Operations Center role to apply threat detection, incident triage, and security monitoring skills while continuing to develop advanced blue-team capabilities.
 
+## Skills
+
+
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
