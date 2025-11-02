@@ -1,5 +1,5 @@
 # Hello, I'm Samir
-<a href="www.linkedin.com/in/samir-riaz"><img src ="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samir-riaz"><img src ="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/samir-riaz"><img src ="https://img.shields.io/badge/Credly-1A1A1A?style=for-the-badge&logo=credly&logoColor=FF6B00" /></a>
 
 
