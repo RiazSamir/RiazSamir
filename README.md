@@ -33,3 +33,5 @@ I work as a Service Desk Analyst wanting to transitioninto cybersecurity, levera
 </div>
 
 ## Projects
+Adversary Simulation & Detection Lab 
+
